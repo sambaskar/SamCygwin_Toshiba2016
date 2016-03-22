@@ -1,3 +1,5 @@
+// My first c program 
+// works well
 #include <stdio.h>
 
 void swapMe(int *x, int * y)
